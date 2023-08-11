@@ -5,7 +5,7 @@ Each block is referred as the [number on top left of the block](https://github.c
 
 
 ## E-Z Image Hosting
-- [ ] Note: **Free** Tier upload limit is _25MB per file_, **Premium** Tier _100MB per file_
+- [ ] Note: **Free** Tier upload limit _25MB per file_, **Premium** Tier _100MB per file_
 
 Copy your API key from [e-z.host Dashboard](https://e-z.host/), head to HTTP Request block (6) and look for `Request headers`. Insert the key to `""` in `"key": ""`
 
